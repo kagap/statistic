@@ -1,6 +1,6 @@
 # 📊 Statistics Starter Pack
 
-A set of 15 interactive Jupyter Notebook modules for learning statistics for data analysis from scratch, available in both **English** ([`EN/`](EN)) and **Polish** ([`PL/`](PL)). Part of the same course series as [python-starter-pack](https://github.com/kagap/python-starter-pack) and [sql-](https://github.com/kagap/sql-). Each notebook is built with a clean layout and locked theory cells to keep the focus entirely on coding practice.
+A set of 15 interactive Jupyter Notebook modules for learning statistics for data analysis from scratch, available in both **English** ([`EN/`](EN)) and **Polish** ([`PL/`](PL)). Part of the same course series as [python-starter-pack](https://github.com/kagap/python-starter-pack) and [sql-](https://github.com/kagap/sql-), continued by [pyspark](https://github.com/kagap/pyspark) and [airflow](https://github.com/kagap/airflow). Each notebook is built with a clean layout and locked theory cells to keep the focus entirely on coding practice.
 
 ## 📌 What's Inside
 
